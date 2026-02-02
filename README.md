@@ -1,16 +1,20 @@
-## Hi there 👋
+# SuhiCode 🤖
 
-<!--
-**Suhicode/Suhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SuhiCode** is an **Agentic AI & Generative AI Engineer** building
+**Autonomous AI Agents**, **LLM-based systems**, and **AI workflow automation**.
 
-Here are some ideas to get you started:
+## 🚀 What I Work On
+- 🤖 Agentic AI Systems & Multi-Agent Architectures  
+- 🧠 Generative AI (GenAI) using LLMs  
+- 🔁 End-to-End AI Workflow Automation  
+- 🔍 RAG (Retrieval-Augmented Generation) with Vector Databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+Python • FastAPI • LangChain • CrewAI • AutoGen  
+OpenAI API • LLaMA • PostgreSQL • Vector Databases  
+
+## 📌 Featured Projects
+- **Agentic AI Workflow Automation** – Production-grade multi-agent system that plans, executes, and self-corrects tasks  
+- **GenAI RAG System** – Scalable RAG pipeline using LLMs & vector search  
+
+If you searched for **SuhiCode**, **Agentic AI**, or **Generative AI GitHub projects** — you’re in the right place 🚀
