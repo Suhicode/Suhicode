@@ -1,20 +1,28 @@
-# SuhiCode 🤖
+# SuhiCode 👋
 
-**SuhiCode** is an **Agentic AI & Generative AI Engineer** building
-**Autonomous AI Agents**, **LLM-based systems**, and **AI workflow automation**.
+hi this is **SuhiCode**, an **Agentic AI & Generative AI Engineer** focused on building
+**production-ready AI systems** that solve real business problems.
 
-## 🚀 What I Work On
-- 🤖 Agentic AI Systems & Multi-Agent Architectures  
-- 🧠 Generative AI (GenAI) using LLMs  
-- 🔁 End-to-End AI Workflow Automation  
-- 🔍 RAG (Retrieval-Augmented Generation) with Vector Databases  
+## 🧠 Expertise
+- Agentic AI & Autonomous AI Agents  
+- Generative AI (LLMs, GenAI)  
+- Multi-Agent Systems & Task Orchestration  
+- RAG (Retrieval-Augmented Generation)  
+- AI Workflow Automation (end-to-end)
 
 ## 🔧 Tech Stack
-Python • FastAPI • LangChain • CrewAI • AutoGen  
-OpenAI API • LLaMA • PostgreSQL • Vector Databases  
+Python, FastAPI, LangChain, CrewAI, AutoGen  
+OpenAI API, LLaMA, Vector Databases, PostgreSQL
 
-## 📌 Featured Projects
-- **Agentic AI Workflow Automation** – Production-grade multi-agent system that plans, executes, and self-corrects tasks  
-- **GenAI RAG System** – Scalable RAG pipeline using LLMs & vector search  
+## 🚀 Highlight Projects
+### 🔹 Agentic AI Workflow Automation
+Production-grade multi-agent system that plans, executes, and self-corrects tasks using LLMs.
 
-If you searched for **SuhiCode**, **Agentic AI**, or **Generative AI GitHub projects** — you’re in the right place 🚀
+### 🔹 GenAI RAG System
+Scalable RAG pipeline using LLMs and vector search for accurate, real-time responses.
+
+## 🎯 What I’m Looking For
+- AI Engineer / GenAI Engineer / Agentic AI roles  
+- Teams building real-world, production AI systems
+
+If you’re a recruiter searching for **Agentic AI**, **GenAI**, or **LLM-based systems**, let’s connect.
